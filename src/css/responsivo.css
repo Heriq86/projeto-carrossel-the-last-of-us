@@ -13,9 +13,16 @@
 
     .informacoes .descricao{
         width: 60%;
-        text-align: center;
+        text-align: justify;
     }
 }
+
+.menu-lateral{
+        position: static;
+        min-height: auto;
+        width: 100%;
+        margin-top: 50px;
+    }
 
 @media (max-width: 425px){
     .informacoes .logo{
