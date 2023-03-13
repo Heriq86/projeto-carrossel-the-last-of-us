@@ -24,6 +24,7 @@
 
     .informacoes .descricao{
         width: 100%;
+        text-align: center;
     }
 
     .menu-lateral{
