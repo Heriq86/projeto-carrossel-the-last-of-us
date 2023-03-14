@@ -15,17 +15,18 @@
         width: 90%;
         text-align: justify;
     }
-}
 
-.menu-lateral{
+    .menu-lateral{
         position: static;
         min-height: auto;
         width: 100%;
         margin-top: 50px;
     }
- .menu-lateral ul{
+
+    .menu-lateral ul{
         flex-direction: row;
     }
+}
 
 @media (max-width: 425px){
     .informacoes .logo{
@@ -52,7 +53,6 @@
         min-height: 70vh;
         gap: 50px;
     }
-
 }
     body{
         padding: 40px;
